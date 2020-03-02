@@ -1,0 +1,108 @@
+#page title
+page_title                                : ORTUS+ - Simply Better
+
+appstore_link                             : https://testflight.apple.com/join/kocXDWmm
+
+app_icon                                  : /assets/appicon.png
+app_name                                  : ORTUS+
+app_description                           : ORTUS+ is a mobile application for Riga Technical University to provide a better experience for students.
+enable_smart_app_banner                   : true
+
+
+
+# Information About Yourself
+your_name                                 : Firdavs Khaydarov
+your_link                                 : https://recouse.me
+your_city                                 : Riga, Latvia
+twitter_username                          : Recouse
+github_username                           : Recouse
+
+features                                  :
+  - title                                 : Schedule
+    description                           : Weekly classes schedule with university events.
+    fontawesome_icon_name                 : calendar
+
+  - title                                 : No Password
+    description                           : Enter to the ORTUS website without entering a password or PIN code.
+    fontawesome_icon_name                 : key
+
+  - title                                 : Grades
+    description                           : Get your grades from the latest semester. All semesters coming soon. 
+    fontawesome_icon_name                 : list-ol
+
+  - title                                 : Courses
+    description                           : Get full semesters and courses list. You can open e-courses directly from the app.
+    fontawesome_icon_name                 : book
+
+  - title                                 : Nofitications
+    description                           : Never miss important notifications. Push notifications coming soon.
+    fontawesome_icon_name                 : bell
+
+  - title                                 : News
+    description                           : Explore latest RTU news. Translating from Latvian coming soon.
+    fontawesome_icon_name                 : newspaper
+
+
+# Theme Settings
+topbar_color                              : "#000000"
+topbar_transparency                       : 0.0
+topbar_title_color                        : "#2e3131"
+
+
+cover_overlay_color                       : "#e4e9ed"
+cover_overlay_transparency                : 1
+
+device_color                              : black
+
+body_background_color                     : "#ffffff"
+
+link_color                                : "#569289"
+
+app_title_color                           : "#2e3131"
+app_price_color                           : "#2e3131"
+app_description_color                     : "#2e3131"
+
+feature_title_color                       : "#000000"
+feature_text_color                        : "#666666"
+
+feature_icons_foreground_color            : "#569289"
+feature_icons_background_color            : "#e6e6e6"
+
+social_icons_foreground_color             : "#666666"
+social_icons_background_color             : "#e6e6e6"
+
+footer_text_color                         : "#666666"
+
+
+
+
+
+
+
+
+
+
+
+
+
+####################################################
+### Jekyll Configuration. No need to touch this. ###
+####################################################
+
+# Set the Sass partials directory, as we're using @imports
+sass:
+  style: :compressed # You might prefer to minify using :compressed
+
+# Exclude these files from your production _site
+exclude:
+  - LICENSE
+  - README.md
+  - CNAME
+
+collections:
+  pages:
+    output: true
+    permalink: /:path/
+
+# Markdown rendering
+markdown: kramdown
