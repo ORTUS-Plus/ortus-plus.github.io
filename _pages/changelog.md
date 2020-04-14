@@ -5,8 +5,20 @@ include_in_header: true
 ---
 
 ### `Latest`
-# **Version 1.0.0 build 14**
+# **Version 1.0.0 build 17**
 
+#### What's New
+- ORTUS browser controls (back, forward, refresh)
+- Contacts list
+- Privacy policy in Settings
+
+#### Bug Fixes:
+- Timezone bug in Schedule
+- Dark mode color scheme
+
+<br>
+
+### **Version 1.0.0 build 14**
 #### What's New
 - Schedule widget
 - Landscape orientation support
