@@ -5,7 +5,21 @@ include_in_header: true
 ---
 
 ### `Latest`
-# **Version 1.0.0 build 17**
+# **Version 1.0.0 build 19**
+
+#### What's New
+- Added data caching, the app works faster now
+- Reduced app size
+- UI improvements
+
+#### Bug Fixes:
+- Courses loading on the first launch
+- Fixed news loading
+- Fixed browser UI bugs
+
+<br>
+
+### **Version 1.0.0 build 17**
 
 #### What's New
 - ORTUS browser controls (back, forward, refresh)
