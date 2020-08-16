@@ -5,7 +5,21 @@ include_in_header: true
 ---
 
 ### `Latest`
-# **Version 1.0.0 build 19**
+# **Version 0.2.0**
+
+Changed versioning since it's beta.
+
+#### What's New
+- Siri shortcuts
+- UI improvements
+
+#### Bug Fixes:
+- Token removing on logout
+- Cache clearing on logout
+
+<br>
+
+### **Version 0.1.9**
 
 #### What's New
 - Added data caching, the app works faster now
@@ -19,7 +33,7 @@ include_in_header: true
 
 <br>
 
-### **Version 1.0.0 build 17**
+### **Version 0.1.7**
 
 #### What's New
 - ORTUS browser controls (back, forward, refresh)
@@ -32,7 +46,7 @@ include_in_header: true
 
 <br>
 
-### **Version 1.0.0 build 14**
+### **Version 0.1.4**
 #### What's New
 - Schedule widget
 - Landscape orientation support
@@ -41,7 +55,7 @@ include_in_header: true
 
 <br>
 
-### **Version 1.0.0 build 12**
+### **Version 0.1.2**
 #### What's New
 - Home screen
 - Open ORTUS website directly from the app
